@@ -1,0 +1,8 @@
+# Whether maintenance mode is currently active.
+# Can be toggled with /maintenance command.
+maintenance-mode: false
+
+# The message shown to players who try to join during maintenance
+# without the viamaintenance.bypass permission.
+# You can use color codes with '&'.
+kick-message: "&cServer is under maintenance.\n&ePlease try again later." 
